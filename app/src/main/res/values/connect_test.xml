@@ -15,15 +15,15 @@
     <string name="ct_multi_site_a">Continue</string>
     <string name="ct_multi_site_b">Continue</string>
     <plurals name="ct_plural_add">
-        <item quantity="one">New alert45</item>
+        <item quantity="one">New alert</item>
         <item quantity="other">New alerts</item>
     </plurals>
     <plurals name="ct_plural_replace">
-        <item quantity="one">Message543</item>
+        <item quantity="one">Message</item>
         <item quantity="other">Messages</item>
     </plurals>
     <plurals name="ct_variant_plural">
-        <item quantity="one">File3</item>
+        <item quantity="one">File</item>
         <item quantity="other">Files</item>
     </plurals>
 </resources>
